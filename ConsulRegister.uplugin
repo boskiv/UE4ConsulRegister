@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ConsulRegister",
+	"Description": "Register dedicated server in hashicorp consul",
+	"Category": "Other",
+	"CreatedBy": "Ivan Skiridomov",
+	"CreatedByURL": "http://github.com/boskiv",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ConsulRegister",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
